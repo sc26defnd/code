@@ -47,7 +47,7 @@ After the deployment scheme is determined, configure the component information o
 * The address of the proxy.
 * The network core bandwidth limit (e.g., 2,500,000) according to your setup.
 
-Run the script to generate the necessary files for each physical node, and launch the data nodes, proxies, and coordinator.
+Run the script to generate the necessary files for each physical node, and distribute them.
 
 ```bash
 py generator_sh.py
