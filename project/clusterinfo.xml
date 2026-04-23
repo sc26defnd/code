@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<clusters>
+	<cluster id="0" proxy="192.168.0.219:32406">
+		<datanodes>
+			<datanode uri="192.168.0.219:17600" />
+			<datanode uri="192.168.0.219:17601" />
+			<datanode uri="192.168.0.219:17602" />
+			<datanode uri="192.168.0.219:17603" />
+			<datanode uri="192.168.0.219:17604" />
+			<datanode uri="192.168.0.219:17605" />
+			<datanode uri="192.168.0.219:17606" />
+			<datanode uri="192.168.0.219:17607" />
+			<datanode uri="192.168.0.219:17608" />
+			<datanode uri="192.168.0.219:17609" />
+			<datanode uri="192.168.0.219:17610" />
+			<datanode uri="192.168.0.219:17611" />
+			<datanode uri="192.168.0.219:17612" />
+			<datanode uri="192.168.0.219:17613" />
+			<datanode uri="192.168.0.219:17614" />
+			<datanode uri="192.168.0.219:17615" />
+			<datanode uri="192.168.0.219:17616" />
+			<datanode uri="192.168.0.219:17617" />
+			<datanode uri="192.168.0.219:17618" />
+			<datanode uri="192.168.0.219:17619" />
+		</datanodes>
+	</cluster>
+	<cluster id="1" proxy="192.168.0.220:32406">
+		<datanodes>
+			<datanode uri="192.168.0.220:17620" />
+			<datanode uri="192.168.0.220:17621" />
+			<datanode uri="192.168.0.220:17622" />
+			<datanode uri="192.168.0.220:17623" />
+			<datanode uri="192.168.0.220:17624" />
+			<datanode uri="192.168.0.220:17625" />
+			<datanode uri="192.168.0.220:17626" />
+			<datanode uri="192.168.0.220:17627" />
+			<datanode uri="192.168.0.220:17628" />
+			<datanode uri="192.168.0.220:17629" />
+			<datanode uri="192.168.0.220:17630" />
+			<datanode uri="192.168.0.220:17631" />
+			<datanode uri="192.168.0.220:17632" />
+			<datanode uri="192.168.0.220:17633" />
+			<datanode uri="192.168.0.220:17634" />
+			<datanode uri="192.168.0.220:17635" />
+			<datanode uri="192.168.0.220:17636" />
+			<datanode uri="192.168.0.220:17637" />
+			<datanode uri="192.168.0.220:17638" />
+			<datanode uri="192.168.0.220:17639" />
+		</datanodes>
+	</cluster>
+	<cluster id="2" proxy="192.168.0.221:32406">
+		<datanodes>
+			<datanode uri="192.168.0.221:17640" />
+			<datanode uri="192.168.0.221:17641" />
+			<datanode uri="192.168.0.221:17642" />
+			<datanode uri="192.168.0.221:17643" />
+			<datanode uri="192.168.0.221:17644" />
+			<datanode uri="192.168.0.221:17645" />
+			<datanode uri="192.168.0.221:17646" />
+			<datanode uri="192.168.0.221:17647" />
+			<datanode uri="192.168.0.221:17648" />
+			<datanode uri="192.168.0.221:17649" />
+			<datanode uri="192.168.0.221:17650" />
+			<datanode uri="192.168.0.221:17651" />
+			<datanode uri="192.168.0.221:17652" />
+			<datanode uri="192.168.0.221:17653" />
+			<datanode uri="192.168.0.221:17654" />
+			<datanode uri="192.168.0.221:17655" />
+			<datanode uri="192.168.0.221:17656" />
+			<datanode uri="192.168.0.221:17657" />
+			<datanode uri="192.168.0.221:17658" />
+			<datanode uri="192.168.0.221:17659" />
+		</datanodes>
+	</cluster>
+	<cluster id="3" proxy="192.168.0.222:32406">
+		<datanodes>
+			<datanode uri="192.168.0.222:17660" />
+			<datanode uri="192.168.0.222:17661" />
+			<datanode uri="192.168.0.222:17662" />
+			<datanode uri="192.168.0.222:17663" />
+			<datanode uri="192.168.0.222:17664" />
+			<datanode uri="192.168.0.222:17665" />
+			<datanode uri="192.168.0.222:17666" />
+			<datanode uri="192.168.0.222:17667" />
+			<datanode uri="192.168.0.222:17668" />
+			<datanode uri="192.168.0.222:17669" />
+			<datanode uri="192.168.0.222:17670" />
+			<datanode uri="192.168.0.222:17671" />
+			<datanode uri="192.168.0.222:17672" />
+			<datanode uri="192.168.0.222:17673" />
+			<datanode uri="192.168.0.222:17674" />
+			<datanode uri="192.168.0.222:17675" />
+			<datanode uri="192.168.0.222:17676" />
+			<datanode uri="192.168.0.222:17677" />
+			<datanode uri="192.168.0.222:17678" />
+			<datanode uri="192.168.0.222:17679" />
+		</datanodes>
+	</cluster>
+	<cluster id="4" proxy="192.168.0.223:32406">
+		<datanodes>
+			<datanode uri="192.168.0.223:17680" />
+			<datanode uri="192.168.0.223:17681" />
+			<datanode uri="192.168.0.223:17682" />
+			<datanode uri="192.168.0.223:17683" />
+			<datanode uri="192.168.0.223:17684" />
+			<datanode uri="192.168.0.223:17685" />
+			<datanode uri="192.168.0.223:17686" />
+			<datanode uri="192.168.0.223:17687" />
+			<datanode uri="192.168.0.223:17688" />
+			<datanode uri="192.168.0.223:17689" />
+			<datanode uri="192.168.0.223:17690" />
+			<datanode uri="192.168.0.223:17691" />
+			<datanode uri="192.168.0.223:17692" />
+			<datanode uri="192.168.0.223:17693" />
+			<datanode uri="192.168.0.223:17694" />
+			<datanode uri="192.168.0.223:17695" />
+			<datanode uri="192.168.0.223:17696" />
+			<datanode uri="192.168.0.223:17697" />
+			<datanode uri="192.168.0.223:17698" />
+			<datanode uri="192.168.0.223:17699" />
+		</datanodes>
+	</cluster>
+	<cluster id="5" proxy="192.168.0.224:32406">
+		<datanodes>
+			<datanode uri="192.168.0.224:17700" />
+			<datanode uri="192.168.0.224:17701" />
+			<datanode uri="192.168.0.224:17702" />
+			<datanode uri="192.168.0.224:17703" />
+			<datanode uri="192.168.0.224:17704" />
+			<datanode uri="192.168.0.224:17705" />
+			<datanode uri="192.168.0.224:17706" />
+			<datanode uri="192.168.0.224:17707" />
+			<datanode uri="192.168.0.224:17708" />
+			<datanode uri="192.168.0.224:17709" />
+			<datanode uri="192.168.0.224:17710" />
+			<datanode uri="192.168.0.224:17711" />
+			<datanode uri="192.168.0.224:17712" />
+			<datanode uri="192.168.0.224:17713" />
+			<datanode uri="192.168.0.224:17714" />
+			<datanode uri="192.168.0.224:17715" />
+			<datanode uri="192.168.0.224:17716" />
+			<datanode uri="192.168.0.224:17717" />
+			<datanode uri="192.168.0.224:17718" />
+			<datanode uri="192.168.0.224:17719" />
+		</datanodes>
+	</cluster>
+	<cluster id="6" proxy="192.168.0.225:32406">
+		<datanodes>
+			<datanode uri="192.168.0.225:17720" />
+			<datanode uri="192.168.0.225:17721" />
+			<datanode uri="192.168.0.225:17722" />
+			<datanode uri="192.168.0.225:17723" />
+			<datanode uri="192.168.0.225:17724" />
+			<datanode uri="192.168.0.225:17725" />
+			<datanode uri="192.168.0.225:17726" />
+			<datanode uri="192.168.0.225:17727" />
+			<datanode uri="192.168.0.225:17728" />
+			<datanode uri="192.168.0.225:17729" />
+			<datanode uri="192.168.0.225:17730" />
+			<datanode uri="192.168.0.225:17731" />
+			<datanode uri="192.168.0.225:17732" />
+			<datanode uri="192.168.0.225:17733" />
+			<datanode uri="192.168.0.225:17734" />
+			<datanode uri="192.168.0.225:17735" />
+			<datanode uri="192.168.0.225:17736" />
+			<datanode uri="192.168.0.225:17737" />
+			<datanode uri="192.168.0.225:17738" />
+			<datanode uri="192.168.0.225:17739" />
+		</datanodes>
+	</cluster>
+	<cluster id="7" proxy="192.168.0.226:32406">
+		<datanodes>
+			<datanode uri="192.168.0.226:17740" />
+			<datanode uri="192.168.0.226:17741" />
+			<datanode uri="192.168.0.226:17742" />
+			<datanode uri="192.168.0.226:17743" />
+			<datanode uri="192.168.0.226:17744" />
+			<datanode uri="192.168.0.226:17745" />
+			<datanode uri="192.168.0.226:17746" />
+			<datanode uri="192.168.0.226:17747" />
+			<datanode uri="192.168.0.226:17748" />
+			<datanode uri="192.168.0.226:17749" />
+			<datanode uri="192.168.0.226:17750" />
+			<datanode uri="192.168.0.226:17751" />
+			<datanode uri="192.168.0.226:17752" />
+			<datanode uri="192.168.0.226:17753" />
+			<datanode uri="192.168.0.226:17754" />
+			<datanode uri="192.168.0.226:17755" />
+			<datanode uri="192.168.0.226:17756" />
+			<datanode uri="192.168.0.226:17757" />
+			<datanode uri="192.168.0.226:17758" />
+			<datanode uri="192.168.0.226:17759" />
+		</datanodes>
+	</cluster>
+</clusters>
